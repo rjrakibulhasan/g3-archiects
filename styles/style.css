@@ -1,0 +1,105 @@
+/* nav bar */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav li{
+    list-style: none;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+}
+/* main-header */
+.main-heder{
+    background-color: rgba(255, 144, 14, 0.1);;
+    height: 1322px;
+width: 1920px;
+left: 1px;
+top: 61px;
+border-radius: 0px;
+
+}
+/* container */
+.container{
+    align-items: center;
+    margin-top: 100px;
+}
+.banar{
+
+    position: absolute;
+    width: 862px;
+    height: 225px;
+    left: 529px;
+    top: 205px;
+    
+    
+/* Dark 01 */
+
+color: #131313;
+
+}
+.banar-img{
+    position: top;
+    width: 1400px;
+    height: 700px;
+    left: 240px;
+    top: 577px;
+    border-radius: 8px;
+
+}
+   
+.team-image{
+    display: grid;
+   grid-template-columns: repeat(2,1fr);
+  
+}
+/* button */
+.button-cls{
+    background-color: orange;
+    width: 105px;
+    height: 40px;
+    border-radius: 10px;
+}
+.second-btn{background-color: orange;
+    width: 105px;
+    height: 40px;
+    border-radius: 10px;
+
+}
+.third-button{background-color: orange;
+    width: 144px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: large;
+
+}
+.article-tag{
+    display: flex;
+}
+.second-container{
+    width:1440px ;
+    height: 1060;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+}
+.info-bd{
+    display: flex;
+}
+.facts{
+   
+    width: 150px;
+    height: 81px;
+    left: 1063px;
+    top: 3764px;
+}
+.footer-section{
+    height: 100px;
+ width: 1440px;
+left: 240px;
+top: 4444px;
+border-radius: 8px;
+
+}
